@@ -7,4 +7,4 @@ I found this article compelling because it highlights **Andy Jassy’s view on t
 On a personal note, this letter was released while I was interning at Amazon, which made it especially memorable. My team actually found it ironic, since we had **the lowest AI tool adoption rate in our organization** at the time. That contrast made the message feel both aspirationa
 
 **Comment**
-Grace He - I think its interesting how Jassy's pespective highlights generative AI as a driver of innovation, hintingthat AI will change the nature of work at Amazon.
+Grace He - I think its interesting how Jassy's pespective highlights generative AI as a driver of innovation, hinting that AI will change the nature of work at Amazon.
